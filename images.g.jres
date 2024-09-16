@@ -14,16 +14,6 @@
         "mimeType": "image/x-mkcd-f4",
         "displayName": "myImage2"
     },
-    "image2": {
-        "data": "hwQQABAAAAAA//8PAAAAAPAiIvIPAAAML/L///4Quwsi/3/v7h+7C/L/d//tfv8M8n/3H9F+he//d/cd2H2I7393993dfYgPf3f33d19iA//d/cd2H2I7/J/9x/RfoXv8v93/+3+/wAi/3fv7g8AAP/y///+AAAAAP8i8g8AAAAA8P8PAAAAAA==",
-        "mimeType": "image/x-mkcd-f4",
-        "displayName": "myImage0"
-    },
-    "image5": {
-        "data": "hwQQABAAAAAA//8PAAAAAPAiIvIPAAAML/L///4Quwsi/3/v7h+7C/L/d//tfv8M8n/3H9F+he//d/cd2H2I7393993dfYgPf3f33d19iA//d/cd2H2I7/J/9x/RfoXv8v93/+3+/wAi/3fv7g8AAP/y///+AAAAAP8i8g8AAAAA8P8PAAAAAA==",
-        "mimeType": "image/x-mkcd-f4",
-        "displayName": "myImage3"
-    },
     "image7": {
         "data": "hwQeABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADw/+z/AAAAAP8i7+4PAADw/yL/7f7/APAv8h/RLoXv/yLyHdgtiO8vIvLd3S2IDy8i8t3dLYgP/yLyHdgtiO/wL/If0S6F7/D/Iv/tLv8AAP8v7+4vAAAA8P//HhEAAAAAAPAPEQAAAAAAAAAAAAA=",
         "mimeType": "image/x-mkcd-f4",
@@ -33,6 +23,41 @@
         "data": "hwQeABAAAAAAAAAAAAAAAAAAAPAPEQAAAPD//x4RAAAA/3/v7n8AAPD/d//tfv8A8H/3H9F+he//d/cd2H2I7393993dfYgPf3f33d19iA//d/cd2H2I7/B/9x/RfoXv8P93/+3+/wAA/3fv7i8iDwDw/+z/LyIPAAAAu7v7/wAAAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFD1VVVVBQAAUKofEaoFAABQovEfoQUAAFBSERGvBQAAUFLxH68FAABQoh8RrwUAAFD6GhEaBQAAUKqqqhoFAABQVVVVVQUAAAAAAAAAAAAAAAAAAAAAAAA=",
         "mimeType": "image/x-mkcd-f4",
         "displayName": "myImage4"
+    },
+    "image8": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAACIiIiIAAAAgIiIiIgIAACAiIiIiIgAAACIiIiIiAAAAIiIiIiIAAAAiIiIiIgAAACIiIiIiAAAAIiIiIiIAACAiIiIiIgAAICIiIiIiAAAAIiIiIgIAAAAgIiIiAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage6"
+    },
+    "image9": {
+        "data": "hwQgACAAAACqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqrMzMzMzKqqqqqqqqqqqqrMzMzMzMzMqqqqqqqqqqrKfHd3d3fMzKyqqqqqqqqqzHd3d3d3x8zMqqqqqqqqqnx3d3d3d8fMzKqqqqqqqsp8d3d3d3d3zMysqqqqqqrKd3d3d/d/d8zMrKqqqqqqzHd3d3f//3fHzMyqqqqqqnx3d3f3//93x8zMqqqqqqp8d3f3//93d8fMzKqqqqqqfHd3//9/dxcRwcyqqqqqqnx39///f3cXEcHMqqqqqqp8d/f/9x8RERHBzKqqqqqqfHf3//8fERERcXd3d3d3d3x3d///f3cXEcHMqqqqqqp8d3d3//9/FxHBzKqqqqqqfHd3d/f//3fHzMyqqqqqqnx3d3d39/93x8zMqqqqqqrMd3d3d3f/d8fMzKqqqqqqynd3d3d3d3fMzKyqqqqqqsp8d3d3d3d3zMysqqqqqqqqfHd3d3d3x8zMqqqqqqqqqsx3d3d3d8fMzKqqqqqqqqrKfHd3d3fMzKyqqqqqqqqqqszMzMzMzMyqqqqqqqqqqqqqzMzMzMyqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqg==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage7"
+    },
+    "image10": {
+        "data": "hwQQABAAAAAAAAAAAP//gAAA///wIiKfAP937/8iIo/wd3fv/v//gH93997ufoiff3f33u1+iI9/d/fe3X2Fj39399/dfYiff3cX3919hY9/FxEf0X34n/Bxdx/Yf/+A8B9x390fAZAA/x///xABgAAA8P8PsAuQAAAAAACwC4AAAAAAALzLkA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage8"
+    },
+    "image11": {
+        "data": "hwQQABAAAAAAAAAAALzLkAAA////sAuAAP9xH9gfAZDwF3cf0R/xgH93Ed/dfYWff3d33919iI9/d3ff3X2Fn393d9/dfYiPf3d33919iJ9/d3ff7X74j/B3d9/u//+A8H937+4vIp8A/3///y8ijwAA8P8P8P+QAAAAAAAAAIAAAAAAAAAAkA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage9"
+    },
+    "image12": {
+        "data": "hwQQABAAAAAJAAAA8P8AAAgAAPAvIv8ACQAA7///L/8IAPDu/nf/Ign/797/d/8v+FjnHfF/9y/5iEeN0X93//iIR93df3f3+YhH3d1/d/f4iEeN0X93//lY5x3xf/cvyP/nTv93/y+4u/Hu/vf/Irm7Ae///y/yyAAA8C8iIg8JAAAA8P//AA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage10"
+    },
+    "image2": {
+        "data": "hwQQABAAAAAA//8PAAAAAPAiIvIPAAAML/L///4Quwsi/3/v7h+7C/L/d//tfv8M8n/3H9F+he//d/cd2H2I7393993dfYgPf3f33d19iA//d/cd2H2I7/J/9x/RfoXv8v93/+3+/wAi/3fv7g8AAP/y///+AAAAAP8i8g8AAAAA8P8PAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage0"
+    },
+    "image5": {
+        "data": "hwQQABAAAAAA//8PAAAAgPAiIvIPAACcL/L///4Qu4si/3/v7h+7m/L/d//tfv+M8n/3H9F+hZ//d/cd2H2Ij393993dfYiff3f33d19iI//d/cd2H2In/J/9x/RfoWP8v93/+3+/5Ai/3fv7g8AgP/y///+AACQAP8i8g8AAIAA8P8PAAAAkA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage3"
     },
     "*": {
         "mimeType": "image/x-mkcd-f4",
